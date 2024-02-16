@@ -7,8 +7,8 @@ description: > # this means to ignore newlines until "twitter_username:"
   Google search results) and in your feed.xml site description.
 
 # social links
-github_username:  jekyll
-linkedin_username: jekyll
+# github_username:  jekyll
+linkedin_username: https://www.linkedin.com/in/rylie-wieseler-b0072a206/
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -16,6 +16,7 @@ show_excerpts: false # set to true to show excerpts on the homepage
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
   date_format: "%b %-d, %Y"
+  skin: auto
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
