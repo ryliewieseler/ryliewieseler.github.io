@@ -14,4 +14,4 @@ I am a first-year political science Ph.D. student at in the [Truman School of Go
 
 Broadly, I have research interests in intrastate conflict processes, rebel groups, and political parties. More specifically, I am interested in party development and competition in post-civil war contexts.
 
-Please browse my website for additional information about my experience and work. Feel free to contact me via email with questions.
+Please browse my website for additional information about my experience and work. Feel free to contact me via <a href = "mailto: rywqzv@umsystem.edu">email</a> with questions.
