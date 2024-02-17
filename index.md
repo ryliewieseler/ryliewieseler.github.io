@@ -8,7 +8,7 @@
 layout: home
 ---
 
-![Alt text](files/wieseler.jpg)
+<img align="right" ![Alt text](files/wieseler.jpg)>
 
 _Welcome!_
 
