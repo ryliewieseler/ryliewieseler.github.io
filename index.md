@@ -9,7 +9,7 @@ layout: home
 ---
 
 <p>
-<img align="left" src="files/wieseler.jpg" width="300" hspace="5" />
+<img align="left" src="files/wieseler.jpg" width="300" hspace="30" />
 </p>
 
 _Welcome!_
