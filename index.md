@@ -10,11 +10,10 @@ layout: home
 
 <img align="right" src="files/wieseler.jpg" width="300" hspace="5" />
 
-<div align="justify"> 
 _Welcome!_
 
 I am a first-year political science Ph.D. student at in the [Truman School of Government and Public Affairs](https://truman.missouri.edu/) at the University of Missouri. My subfields are comparative politics and international relations. I received my B.A. in Global Studies with a emphasis in world cultures from [Boise State University](https://www.boisestate.edu/sps-global/) in 2022.
 
 Broadly, I have research interests in intrastate conflict processes, rebel groups, and political parties. More specifically, I am interested in party development and competition in post-civil war contexts.
 
-Please browse my website for additional information about my experience and work. Feel free to contact me via <a href = "mailto: rywqzv@umsystem.edu">email</a> with questions. </div>
+Please browse my website for additional information about my experience and work. Feel free to contact me via <a href = "mailto: rywqzv@umsystem.edu">email</a> with questions.
