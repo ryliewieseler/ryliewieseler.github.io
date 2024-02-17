@@ -8,7 +8,7 @@
 layout: home
 ---
 
-<img align="right" src="files/wieseler.jpg" width="300" hspace="15" />
+<img align="right" src="files/wieseler.jpg" width="300" hspace="5" />
 
 _Welcome!_
 
