@@ -13,6 +13,7 @@
               {{ site.author | escape }}
             {%- endif -%}
             </li>
+            {%- include social.html -%}
             {%- if site.email -%}
             <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
             {%- endif -%}
@@ -20,10 +21,6 @@
               Office: {{ site.address | escape }}
             {%- endif -%}
         </ul>
-      </div>
-
-      <div class="footer-col">
-        {%- include social.html -%}
       </div>
 
     </div>
