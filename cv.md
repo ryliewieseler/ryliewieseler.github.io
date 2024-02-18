@@ -5,4 +5,4 @@ title: CV
 
 A copy of my CV can be found below: 
 
-<object data="files/CV_RYW (10pt).pdf" width="1000" height="1000" type='application/pdf'></object>
+<object data="files/CV_RYW (10pt).pdf" max-width="100%" height="auto" type='application/pdf'></object>
