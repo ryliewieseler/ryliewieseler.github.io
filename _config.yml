@@ -20,7 +20,10 @@ header_pages:
  - teaching.md
 
 # Build settings
-theme: minima/skins/solarized
+theme: minima
+
+minima:
+  skin: solarized
 
 plugins:
  - jekyll-feed
